@@ -1,2 +1,2 @@
 # sheep
-my first tkinter program, its sad for me the fact that i had to copy and paste for create this shit program
+mi primer programa hecho con tkinter. Me duele saber el hecho que tuve que hace copy and paste en varias ocasiones para crear esto
